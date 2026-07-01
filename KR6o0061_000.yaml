@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6o0061/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 寶行王正論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1656.xml
+    old_id: T32n1656
+hash: sha256:f28e7f2d9c1cd3e4fa6d4fabf306780d34ff620c43b98cd78bab78fe9073d8d5

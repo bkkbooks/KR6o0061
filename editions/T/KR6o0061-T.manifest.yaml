@@ -1,0 +1,88 @@
+canonical_identifier: bkk:krp/KR6o0061/T/v1
+canonical_location: https://kanripo.org/bkk/KR6o0061/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 寶行王正論
+  identifiers:
+    krp: KR6o0061
+    cbeta: T32n1656
+    cbeta_old_id: T32n1656
+    authorityid: CA0000267
+    json_key: T1656
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1656.xml
+    old_id: T32n1656
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0061_000-T.yaml, hash: 'sha256:f28e7f2d9c1cd3e4fa6d4fabf306780d34ff620c43b98cd78bab78fe9073d8d5'}
+  - {seq: 1, filename: KR6o0061_001-T.yaml, hash: 'sha256:67395e8fbbc81c7bc6396fcd2875fbad1b4fe78226198ad0fb08ad91bd3b73b8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6o0061_000-T.markers.yaml, hash: 'sha256:6bef1f05170c224cf02cec8a97f08d0b90d562f6b827f52802ae2a04a4df4df2'}
+  - {seq: 1, role: markers, filename: assets/KR6o0061_001-T.markers.yaml, hash: 'sha256:f13ad44a46f59d8ba37673a0b91f2fdd0038492892fe1efe9dd9883b001b144e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6o0061_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 10358
+  label: 寶行王正論一卷
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6o0061_T_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 1 安樂解脫品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6o0061_T_001-mulu-2
+    span:
+    - body
+    - 1975
+    - 1975
+  label: 2 雜品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6o0061_T_001-mulu-3
+    span:
+    - body
+    - 3964
+    - 3964
+  label: 3 菩提資糧品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6o0061_T_001-mulu-4
+    span:
+    - body
+    - 5975
+    - 5975
+  label: 4 正教王品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6o0061_T_001-mulu-5
+    span:
+    - body
+    - 8066
+    - 8066
+  label: 5 出家正行品
+  type: mulu
+  level: 1
+hash: sha256:4af92b162a7b72f66fad318bde040479e870f084a2275554e3144c99c13dfff5
